@@ -74,6 +74,9 @@ public class TestsEvaluateur {
 			String niveauObtenu = EvaluateurNiveau.evaluerNiveau(cours, examen);
 		    // Assert
 			assertEquals( niveauAttendu, niveauObtenu );
+			assertEquals( niveauAttendu, niveauObtenu );
+			assertEquals( niveauAttendu, niveauObtenu );
+			assertEquals( niveauAttendu, niveauObtenu );
 		}
 	}
 	

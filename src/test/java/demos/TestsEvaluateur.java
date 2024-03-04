@@ -77,6 +77,7 @@ public class TestsEvaluateur {
 			assertEquals( niveauAttendu, niveauObtenu );
 			assertEquals( niveauAttendu, niveauObtenu );
 			assertEquals( niveauAttendu, niveauObtenu );
+			assertEquals( niveauAttendu, niveauObtenu );
 		}
 	}
 	
